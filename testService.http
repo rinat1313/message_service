@@ -1,0 +1,29 @@
+### GET request to example server
+GET http://127.0.0.1:8080/1
+
+###
+
+### GET request to example server
+GET http://127.0.0.1:8080/5
+
+###
+
+### GET request to example server
+GET http://127.0.0.1:8080/9
+
+###
+
+### GET request to example server
+GET http://127.0.0.1:8080/10
+
+###
+
+### GET request to example server
+GET http://127.0.0.1:8080/99
+
+###
+
+### GET request to example server
+GET http://127.0.0.1:8080/1000
+
+###
