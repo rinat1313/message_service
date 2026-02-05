@@ -1,0 +1,6 @@
+db:
+  DSN: "postgres://postgres:admin@localhost:5432/postgres?sslmode=disable"
+  maxOpenConns: 5
+  maxIdleConns: 5
+  connMaxIdleTime: 5m
+  connMaxLifetime: 5m
